@@ -140,7 +140,7 @@
 .slider {
     position: relative;
     padding-top: 30%;
-    background: url('/img/solarfarm.png') center / cover no-repeat;
+    background: url('/assets/img/solarfarm.png') center / cover no-repeat;
     border-top: 4px solid var(--primary-color);
     border-bottom: 4px solid var(--primary-color);
 }
